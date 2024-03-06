@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GiulianoTesta
+- 👋 Hi, I’m @GiulianoTesta per gli amici GiulyTestolina
 - 👀 I’m interested in codings
 - 🌱 I’m currently learning Computer Science in Catania
 - 💞️ I’m looking to collaborate on web development
