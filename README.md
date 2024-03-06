@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @GiulianoTesta
-- 👀 I’m interested in ...
+- 👀 I’m interested in codings
 - 🌱 I’m currently learning Computer Science in Catania
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on web development
+- 📫 You can reach me at my email
+- 
 
 <!---
 GiulianoTesta/GiulianoTesta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
